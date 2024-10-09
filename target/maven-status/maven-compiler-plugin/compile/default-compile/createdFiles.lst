@@ -1,0 +1,10 @@
+com\example\projetoapi\ProjetoApiApplication.class
+com\example\projetoapi\controller\CommentController.class
+com\example\projetoapi\controller\UserController.class
+com\example\projetoapi\model\Post.class
+com\example\projetoapi\controller\PostController.class
+com\example\projetoapi\model\Comment.class
+com\example\projetoapi\model\User.class
+com\example\projetoapi\repository\PostRepository.class
+com\example\projetoapi\repository\UserRepository.class
+com\example\projetoapi\repository\CommentRepository.class
